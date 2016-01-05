@@ -1,0 +1,24 @@
+body {
+	background-color: #F9EFDC;
+	font-family: 'Cantarell', sans-serif;
+}
+li {
+	display: inline;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+p {
+	left: 50%;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 1.5em;
+}
+
+img {
+	size: 50%;
+}
+
+.quote {
+	font-size: 1.1em;
+}
