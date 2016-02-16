@@ -2,10 +2,14 @@ body {
 	background-color: #F9EFDC;
 	font-family: 'Cantarell', sans-serif;
 }
-li {
+/*li {
 	display: inline;
 	padding-left: 10%;
 	padding-right: 10%;
+}*/
+
+a {
+	color: #545454;
 }
 
 p {
@@ -13,10 +17,22 @@ p {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	font-size: 1.5em;
+	color: #545454;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+	color: #545454;
 }
 
 img {
 	size: 50%;
+}
+
+.navi-links {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
+	color: #545454;
 }
 
 .quote {
@@ -25,4 +41,13 @@ img {
 
 .attr {
 	font-size: 1em;
+}
+
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
+.home-glyphs {
+	color: #545454;
 }
